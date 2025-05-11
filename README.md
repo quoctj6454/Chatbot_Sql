@@ -1,6 +1,6 @@
 # 🤖 Chatbot AI Biết SQL – Truy Vấn CSDL Với LangChain + HuggingFace + SQLite
 Chatbot này có khả năng hiểu ngôn ngữ tự nhiên tiếng Việt, tự sinh câu lệnh SQL, và truy vấn trực tiếp cơ sở dữ liệu SQLite.
-# Công nghệ sử dụng
+# 🧠 Công nghệ sử dụng
   - LangChain
   - HuggingFace (Mistral-7B-Instruct-v0.2)
   - SQLite
