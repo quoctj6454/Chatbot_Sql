@@ -13,8 +13,8 @@ Chatbot này có khả năng hiểu ngôn ngữ tự nhiên tiếng Việt, tự
 
 #  Ví dụ truy vấn chatbot
   -"Liệt kê các sản phẩm giá dưới 300k"
-  -"Danh mục Thời Trang Nam có những gì?"
-  -"Có bao nhiêu danh mục sản phẩm?"
+  -"Danh mục sản phẩm có những gì?"
+  -"Liệt kê tất cả các sản phẩm"
 
 #  Cài đặt & chạy thử
 Chạy trên Google Colab
